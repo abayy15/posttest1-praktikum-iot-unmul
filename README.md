@@ -2,4 +2,4 @@
 
 - Board Schematic
 
-![IMG 1](board schematic/1.jpeg)
+![IMG 1](board schematic/1.png)
